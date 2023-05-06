@@ -1,7 +1,5 @@
 ```
 gcc 230318_4.cpp -o bin/a -lstdc++ -g
-
-python3 download-zip.py URL NUM
 ```
 
 http://tehetseg.inf.elte.hu/nemes-online/2023/eredmeny3.pdf  
