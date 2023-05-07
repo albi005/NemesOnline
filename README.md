@@ -1,4 +1,4 @@
-> TODO: Add `config.lua`
+# NemesOnline
 
 http://tehetseg.inf.elte.hu/nemes-online/nemes-aktualis.html  
 http://tehetseg.inf.elte.hu/nemes-online/nemes_archivum.html  
@@ -73,3 +73,14 @@ http://tehetseg.inf.elte.hu/nemes-online/2023/eredmeny3.pdf
    2. **100** Monoton rendezés
    3. **15** Nyaralás
    4. **0** Vonatozás maximális utasszámmal
+
+## Running on Linux using Neovim
+1. Install plugins:
+   ```
+   mfussenegger/nvim-dap
+   rcarriga/nvim-dap-ui
+   p00f/clangd_extensions.nvim
+   ```
+2. Set `dap.adapters.cppdbg`: https://github.com/mfussenegger/nvim-dap/wiki/C-C---Rust-(gdb-via--vscode-cpptools). 
+3. Enable [exrc](https://neovim.io/doc/user/starting.html#initialization): `vim.o.exrc = true`.
+4. Run `nvim .` and open a .cpp file, set a breakpoint (`:DapToggleBreakpoint`), then `:DapContinue`.
