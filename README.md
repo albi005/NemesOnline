@@ -45,7 +45,7 @@ http://tehetseg.inf.elte.hu/nemes-online/2022/eredmeny3.pdf
    3. **100** Repülők indulása és érkezése
    4. **35** Sejtautomata
 
-### 2022/2023 - *10. hely*
+### 2022/2023 - *11. hely*
 http://tehetseg.inf.elte.hu/nemes-online/2023/eredmeny3.pdf  
 
 1. 221119
