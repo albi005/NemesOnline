@@ -3,48 +3,7 @@
 http://tehetseg.inf.elte.hu/nemes-online/nemes-aktualis.html  
 http://tehetseg.inf.elte.hu/nemes-online/nemes_archivum.html  
 
-### 2020/2021 - *55. hely*
-http://tehetseg.inf.elte.hu/nemes-online/2021/eredmeny2.pdf  
-
-1. 201114
-   1. **100** Banki napok
-   2. **10** Esős napok
-   3. **25** Esős napok
-   4. **12** Tornyok színes építőkockákból
-2. 201219
-   1. **45** Előállítások száma
-   2. **80** Játéktábla
-   3. **0** Szerencsejáték
-   4. **0** Ügyelet
-3. 210213
-   1. **55** Ádám Éva nélkül
-   2. **0** Különböző értékek
-   3. **0** Pillanatnyilag megelőzöttek
-   4. **0** Legközelebbi szigetek
-4. ~~210327~~
-5. ~~210508~~
-
-### 2021/2022 - *19. hely*
-http://tehetseg.inf.elte.hu/nemes-online/2022/eredmeny3.pdf  
-
-1. ~~211113~~
-2. ~~211218~~
-3. 220212
-   1. **100** Átülés
-   2. **95** Gabonaraktár
-   3. **0** Síugró verseny
-   4. **0** Zsetonok
-4. 220402
-   1. **84** Kép elemzés
-   2. **95** Találkozás – 2
-   3. **0** Mutáció
-   4. **85** Ültetvény
-5. 220507
-   1. **0** Kötések hossza
-   2. **100** Őrzött szakaszok száma
-   3. **100** Repülők indulása és érkezése
-   4. **35** Sejtautomata
-
+## Eredmények
 ### 2022/2023 - *11. hely*
 http://tehetseg.inf.elte.hu/nemes-online/2023/eredmeny3.pdf  
 
@@ -73,6 +32,48 @@ http://tehetseg.inf.elte.hu/nemes-online/2023/eredmeny3.pdf
    2. **100** Monoton rendezés
    3. **15** Nyaralás
    4. **0** Vonatozás maximális utasszámmal
+
+### 2021/2022 - *19. hely*
+http://tehetseg.inf.elte.hu/nemes-online/2022/eredmeny3.pdf  
+
+1. ~~211113~~
+2. ~~211218~~
+3. 220212
+   1. **100** Átülés
+   2. **95** Gabonaraktár
+   3. **0** Síugró verseny
+   4. **0** Zsetonok
+4. 220402
+   1. **84** Kép elemzés
+   2. **95** Találkozás – 2
+   3. **0** Mutáció
+   4. **85** Ültetvény
+5. 220507
+   1. **0** Kötések hossza
+   2. **100** Őrzött szakaszok száma
+   3. **100** Repülők indulása és érkezése
+   4. **35** Sejtautomata
+
+### 2020/2021 - *55. hely*
+http://tehetseg.inf.elte.hu/nemes-online/2021/eredmeny2.pdf  
+
+1. 201114
+   1. **100** Banki napok
+   2. **10** Esős napok
+   3. **25** Esős napok
+   4. **12** Tornyok színes építőkockákból
+2. 201219
+   1. **45** Előállítások száma
+   2. **80** Játéktábla
+   3. **0** Szerencsejáték
+   4. **0** Ügyelet
+3. 210213
+   1. **55** Ádám Éva nélkül
+   2. **0** Különböző értékek
+   3. **0** Pillanatnyilag megelőzöttek
+   4. **0** Legközelebbi szigetek
+4. ~~210327~~
+5. ~~210508~~
 
 ## Running on Linux using Neovim
 1. Install plugins:
